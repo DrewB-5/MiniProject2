@@ -1,0 +1,11 @@
+project_wocid;number_of_commits;number_of_authors;max_time;min_time;LongestGapStart (YYYY-MM);LongestGapEnd (YYYY-MM);LongestGapLength (months);NumCommitsAfterLastGap;NumberOfGapsInTimeline;ActivityPattern;max_time_utc;min_time_utc;github_repository;stars;forks;last_commit_date;BeforeThemes;AfterThemes;LongestGapStart;LongestGapEnd
+benfulcher_hctsa;3771;33;1762556662;1368696533;2021-11;2022-02;4;2700;3;;2025-11-07 23:04:22+00:00;2013-05-16 09:28:53+00:00;benfulcher/hctsa;860;367;2026-10-05;Other:Bug fixes;Other:Documentation updates;2021-11-01;2022-03-01
+cp2k_dbcsr;6611;101;1762204068;993574001;2004-12;2005-09;10;6567;16;;2025-11-03 21:07:48+00:00;2001-06-26 16:46:41+00:00;cp2k/dbcsr;157;60;2026-10-08;Other:Bug fixes;Other:Feature development;2004-12-01;2005-10-01
+eclipse_sumo;77293;356;1762285770;1018250481;2002-12;2003-01;2;76987;0;;2025-11-04 19:49:30+00:00;2002-04-08 07:21:21+00:00;eclipse/sumo;4207;1763;2026-10-10;Other:Documentation updates;Feature development:Documentation updates;2002-12-01;2003-02-01
+ecp-copa_cabana;4456;94;1762280143;1515598380;2018-02;2018-02;1;4455;0;;2025-11-04 18:15:43+00:00;2018-01-10 15:33:00+00:00;ECP-COPA/Cabana;284;67;2026-09-16;;;;
+fredros_pypmc;484;21;1762209048;1383226130;2015-08;2016-07;12;190;14;;2025-11-03 22:30:48+00:00;2013-10-31 13:28:50+00:00;fredRos/pypmc;50;13;2026-04-07;Other:Feature development;Documentation updates:Other;2015-08-01;2016-08-01
+iqss_dataverse;42924;537;1761751353;1383332803;;;0;42924;0;;2025-10-29 15:22:33+00:00;2013-11-01 19:06:43+00:00;IQSS/dataverse;1076;569;2026-10-09;;;;
+juliamolsim_dftk.jl;7848;110;1776361883;1555434953;;;0;7848;0;;2026-04-16 17:51:23+00:00;2019-04-16 17:15:53+00:00;JuliaMolSim/DFTK.jl;540;111;2026-10-09;;;;
+juliaopt_jump.jl;12286;295;1761691895;1349829286;;;0;12286;0;;2025-10-28 22:51:35+00:00;2012-10-10 00:34:46+00:00;JuliaOpt/JuMP.jl;2482;429;2026-10-07;;;;
+pbs-assess_gftrends;441;7;1760638172;1604165393;2023-04;2024-01;10;69;5;;2025-10-16 18:09:32+00:00;2020-10-31 17:29:53+00:00;pbs-assess/gftrends;0;0;2026-02-26;Feature development:Other;Documentation updates:Other;2023-04-01;2024-02-01
+rpng_open_vins;877;58;1754832746;1547825046;2019-02;2019-04;3;872;6;;2025-08-10 13:32:26+00:00;2019-01-18 15:24:06+00:00;rpng/open_vins;3132;939;2025-11-30;Other:Bug fixes;Bug fixes:Other;2023-07-01;2023-10-01

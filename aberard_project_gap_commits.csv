@@ -1,0 +1,378 @@
+pre/post;project_wocid;commit_sha1;author;time;commit message
+pre;benfulcher_hctsa;5ee824c564ebb8d10dbfce8a7e2a07335aa908e6;Ben Fulcher <ben.d.fulcher@gmail.com>;1628146761;"Some fixes and improved features/keywords
+"
+pre;benfulcher_hctsa;000279bf51c5d92b79e6a3a7d470857d5bd473f5;Ben Fulcher <ben.d.fulcher@gmail.com>;1628146803;"Support for custom annotations in TS_FeatureSummary
+"
+pre;benfulcher_hctsa;4911b2a33cd8f6f92a5c9006177dac4e6757fb8f;Ben Fulcher <ben.d.fulcher@gmail.com>;1628146815;"Merge branch 'OperationChanges'
+"
+pre;benfulcher_hctsa;177ff0ff4f3a1a7396aa4542128e878ce2a3d0e7;Ben Fulcher <ben.d.fulcher@gmail.com>;1628206158;"Little fixes from Empirical1000 test
+"
+pre;benfulcher_hctsa;102d032ba64c39612424bc065a1792384e1a8936;Ben Fulcher <ben.d.fulcher@gmail.com>;1629440376;"Updated keywords
+"
+pre;benfulcher_hctsa;92cfe8e2879c44fc7f60afe5c1fe5978951eeb14;Ben Fulcher <ben.d.fulcher@gmail.com>;1629871341;"Tweaks & TS_SimSearch supports interactive raw/rank swaps in scatter plots
+"
+pre;benfulcher_hctsa;666353e1d15059da4f9a62477f28931f9bb0081d;Ben Fulcher <ben.d.fulcher@gmail.com>;1630301934;"Install script checks for toolboxes
+"
+pre;benfulcher_hctsa;0382ff5b464ad0168bac9f5c3eb3e1fed25e0464;Ben Fulcher <ben.d.fulcher@gmail.com>;1630463427;"Improved toolbox checking, and other tweaks
+"
+pre;benfulcher_hctsa;e4729edd79b1868af4f7fe518da09fb549052012;Ben Fulcher <ben.d.fulcher@gmail.com>;1634882798;"Added 'svmBeta' option in TS_TopFeatures
+"
+pre;benfulcher_hctsa;cc130ed8739b9e3007d1906cb7f089fb1c82ad3f;Ben Fulcher <ben.d.fulcher@gmail.com>;1635225537;"Fixed abs sorting in TS_TopFeatures
+"
+post;benfulcher_hctsa;a7c25efda30e8faaca32dd8074dc059a845ea5cb;Ben Fulcher <ben.d.fulcher@gmail.com>;1646607114;"Aesthetic updates, incl checks on input data type
+"
+post;benfulcher_hctsa;f21fe901841d801dc725d442089c01a4661c277c;Ben Fulcher <ben.d.fulcher@gmail.com>;1646607202;"Merge branch 'master' into OperationChanges
+"
+post;benfulcher_hctsa;da5b61c2dd40478e3c713cd69705d1eed9173e8b;Ben Fulcher <ben.d.fulcher@gmail.com>;1646607262;"A few minor updates
+"
+post;benfulcher_hctsa;c3eba2f5294eeacfe0122ca6fa22695d44410e29;Ben Fulcher <ben.d.fulcher@gmail.com>;1646607314;"Custom normalization for TS_FeatureSummary
+"
+post;benfulcher_hctsa;ea50f1b63bed2d52ae9cf8d835038b4b97778343;Ben Fulcher <ben.d.fulcher@gmail.com>;1649748681;"Typo fixed in catch22 feature name
+"
+post;benfulcher_hctsa;48bd5a2df2afa5d83fe4d568228ee486179292da;Ben Fulcher <ben.d.fulcher@gmail.com>;1654151266;"minimal
+"
+post;benfulcher_hctsa;668d0e307e6f42087cf82a1d4818664cdcd1d928;Ben Fulcher <ben.d.fulcher@gmail.com>;1654218133;"minimal
+"
+post;benfulcher_hctsa;7762e3c7e92f85ef549f8812c6b09243916408ca;Ben Fulcher <ben.d.fulcher@gmail.com>;1654221955;"Aggregate option for CV, and simple output-perm null now default
+"
+post;benfulcher_hctsa;a5bfa0cb9466481362e15b85c7f0c31467125794;Ben Fulcher <ben.d.fulcher@gmail.com>;1654234430;"New classification features
+"
+post;benfulcher_hctsa;c425642d99f927d4d33baef898c13885b8c85ca2;Ben Fulcher <ben.d.fulcher@gmail.com>;1654497220;"Tweaking low-dim classification
+"
+pre;cp2k_dbcsr;37da54cb4d8d9e7d8458538d04a15f705eb76b43;Joost VandeVondele <vondele@cp2k.org>;1057568805;"Makefile optimization (defined the shell'ed variables only once)
+
+
+git-svn-id: svn://svn.code.sf.net/p/cp2k/code/trunk@1420 bac0169d-1eea-4375-b5f6-f89d2ced9994
+"
+pre;cp2k_dbcsr;2553ace48dbb173f896ed9710508bb4c29f80ee8;Joost VandeVondele <vondele@cp2k.org>;1059998056;"prevent unpleasant things if the directory of realclean is not present...
+
+
+git-svn-id: svn://svn.code.sf.net/p/cp2k/code/trunk@1482 bac0169d-1eea-4375-b5f6-f89d2ced9994
+"
+pre;cp2k_dbcsr;469774e01b02ad62f199a543f4af369c81b02bb5;Fawzi Mohamed <fawzi@cp2k.org>;1061910941;"fixed removal of files upon cleaning
+
+
+git-svn-id: svn://svn.code.sf.net/p/cp2k/code/trunk@1547 bac0169d-1eea-4375-b5f6-f89d2ced9994
+"
+pre;cp2k_dbcsr;33632edfb9e1b00320a01764af84878544109ebb;Joost VandeVondele <vondele@cp2k.org>;1061913433;"bugfix
+
+
+git-svn-id: svn://svn.code.sf.net/p/cp2k/code/trunk@1548 bac0169d-1eea-4375-b5f6-f89d2ced9994
+"
+pre;cp2k_dbcsr;7e6a170cf3f4a863a88973bd71ef0a86a435c0f9;Joost VandeVondele <vondele@cp2k.org>;1075303995;"hopefully last fix for this problem ??
+
+
+git-svn-id: svn://svn.code.sf.net/p/cp2k/code/trunk@2016 bac0169d-1eea-4375-b5f6-f89d2ced9994
+"
+pre;cp2k_dbcsr;8e7516e434a1ad53c5eb9ba25f1dd2f3eac82611;Fawzi Mohamed <fawzi@cp2k.org>;1084526590;"added the possibility to have a post processing of cpp generated files.
+
+
+git-svn-id: svn://svn.code.sf.net/p/cp2k/code/trunk@2391 bac0169d-1eea-4375-b5f6-f89d2ced9994
+"
+pre;cp2k_dbcsr;4d9172156337841bbc5e1efe34a3c6f8e32f213c;Matthias Krack <mkrack@cp2k.org>;1084776872;"less specific CP2KHOME setting
+
+
+git-svn-id: svn://svn.code.sf.net/p/cp2k/code/trunk@2398 bac0169d-1eea-4375-b5f6-f89d2ced9994
+"
+pre;cp2k_dbcsr;bb89bc2b5294a06629e4ced3ffa985af4a23a169;Matthias Krack <mkrack@cp2k.org>;1096539034;"ssmp and psmp added to (real)clean targets
+
+
+git-svn-id: svn://svn.code.sf.net/p/cp2k/code/trunk@2882 bac0169d-1eea-4375-b5f6-f89d2ced9994
+"
+pre;cp2k_dbcsr;970dacc77c4e2102a8c6bd23cd71cd13280933d7;Fawzi Mohamed <fawzi@cp2k.org>;1099603451;"activating f77 interface, you have to update also the makefile!
+
+
+git-svn-id: svn://svn.code.sf.net/p/cp2k/code/trunk@3046 bac0169d-1eea-4375-b5f6-f89d2ced9994
+"
+pre;cp2k_dbcsr;b6d985782d889fdfe158a1752aea4eeb9f1ec9f2;Fawzi Mohamed <fawzi@cp2k.org>;1100119656;"* fixing constant rebiold of cp2k.F
+* better hadling of lib targets
+
+
+git-svn-id: svn://svn.code.sf.net/p/cp2k/code/trunk@3097 bac0169d-1eea-4375-b5f6-f89d2ced9994
+"
+post;cp2k_dbcsr;0b04e0a4edbbe5c866d4da20ec1ca995614c564d;Teodoro Laino <tlaino@cp2k.org>;1128854618;"modified in order to give on command line the ARCH variable. usefull for XT3 and relates architectures.
+
+
+git-svn-id: svn://svn.code.sf.net/p/cp2k/code/trunk@4159 bac0169d-1eea-4375-b5f6-f89d2ced9994
+"
+post;cp2k_dbcsr;fc3acb46765fde5b5ac28e38708de33a638c7244;Teodoro Laino <tlaino@cp2k.org>;1128928794;"reverting to the original makefile.. Arguments can be passed on command line and thei value overrides the ones specified in the makefile.. sorry ;-) (thanks Matthias!)
+
+
+git-svn-id: svn://svn.code.sf.net/p/cp2k/code/trunk@4160 bac0169d-1eea-4375-b5f6-f89d2ced9994
+"
+post;cp2k_dbcsr;e9ff45af374d96d18f1ee2601ae977828eb9f4e8;Teodoro Laino <tlaino@cp2k.org>;1128929191;"reverting to 16 argument for -j
+
+
+git-svn-id: svn://svn.code.sf.net/p/cp2k/code/trunk@4161 bac0169d-1eea-4375-b5f6-f89d2ced9994
+"
+post;cp2k_dbcsr;722f7315d10087530bd5c9b631bce19bce7075f6;Matthias Krack <mkrack@cp2k.org>;1132822334;"No parallel make as default which is a save setting.
+
+
+git-svn-id: svn://svn.code.sf.net/p/cp2k/code/trunk@4276 bac0169d-1eea-4375-b5f6-f89d2ced9994
+"
+post;cp2k_dbcsr;8101c2b334526eca6708752c32160048f67b35db;Teodoro Laino <tlaino@cp2k.org>;1139760097;"Modifying makefile (thanks Fawzi) to get leap2fist compiled from a single makefile, exploiting
+in this way all the machinefiles defined for cp2k
+
+
+git-svn-id: svn://svn.code.sf.net/p/cp2k/code/trunk@4696 bac0169d-1eea-4375-b5f6-f89d2ced9994
+"
+post;cp2k_dbcsr;e971ea5be7e955dec08dfb085bda2e3bf7f226b2;Juerg Hutter <jhutter@cp2k.org>;1139996705;"New Makefile for FFT libraries
+
+
+git-svn-id: svn://svn.code.sf.net/p/cp2k/code/trunk@4720 bac0169d-1eea-4375-b5f6-f89d2ced9994
+"
+post;cp2k_dbcsr;f1482e85a8e6b612146063ec5fda2fcfec547d2d;Teodoro Laino <tlaino@cp2k.org>;1142263607;"Added the FES program to generate the freee energy surface of a metadynamic run
+To compile just make fes, usig machine routine files of cp2k.
+
+
+git-svn-id: svn://svn.code.sf.net/p/cp2k/code/trunk@4878 bac0169d-1eea-4375-b5f6-f89d2ced9994
+"
+post;cp2k_dbcsr;7293c618602c0f13d333d2052732a9056d1bbc7a;Joost VandeVondele <vondele@cp2k.org>;1143738449;"keep up-to-date
+
+
+git-svn-id: svn://svn.code.sf.net/p/cp2k/code/trunk@4995 bac0169d-1eea-4375-b5f6-f89d2ced9994
+"
+post;cp2k_dbcsr;85f294f661f70bb5a1b8bc055b293b6217ab6050;Fawzi Mohamed <fawzi@cp2k.org>;1154706948;"dependencies of f77_int_low
+
+
+git-svn-id: svn://svn.code.sf.net/p/cp2k/code/trunk@5276 bac0169d-1eea-4375-b5f6-f89d2ced9994
+"
+post;cp2k_dbcsr;837f4fa1f8760b1d90a13aebe8092a62e7d7daa4;Matthias Krack <mkrack@cp2k.org>;1165998949;"missing CLEAN_TARGETS added
+
+
+git-svn-id: svn://svn.code.sf.net/p/cp2k/code/trunk@5668 bac0169d-1eea-4375-b5f6-f89d2ced9994
+"
+pre;eclipse_sumo;e09ec432391d02e8620c5967ac549e7bbbde6758;Daniel Krajzewicz <Daniel.Krajzewicz@dlr.de>;1035809938;"errors on parsing the Source-XML-description cause throwing of ProcessErrors now
+
+
+git-svn-id: file:///home/behr_mi/git/sumo_synched/trunk@304 afbd958f-9f77-42d5-a016-97a22340ccf4
+"
+pre;eclipse_sumo;352744994dd023f64da81e3b612802265abfa017;Daniel Krajzewicz <Daniel.Krajzewicz@dlr.de>;1035809978;"vehicles are now deleted whe the tour is over
+
+
+git-svn-id: file:///home/behr_mi/git/sumo_synched/trunk@305 afbd958f-9f77-42d5-a016-97a22340ccf4
+"
+pre;eclipse_sumo;907856ac94984aed962c6f4ff0f233c10d4d6d3c;Daniel Krajzewicz <Daniel.Krajzewicz@dlr.de>;1035887620;"ConnectionsHandler added
+
+
+git-svn-id: file:///home/behr_mi/git/sumo_synched/trunk@306 afbd958f-9f77-42d5-a016-97a22340ccf4
+"
+pre;eclipse_sumo;4ce51f050dfa9d89a2d146638d82c46a56333987;Daniel Krajzewicz <Daniel.Krajzewicz@dlr.de>;1035887644;"log patched
+
+
+git-svn-id: file:///home/behr_mi/git/sumo_synched/trunk@307 afbd958f-9f77-42d5-a016-97a22340ccf4
+"
+pre;eclipse_sumo;00032dd76860550c45290a61ad1451e2ca033d78;Daniel Krajzewicz <Daniel.Krajzewicz@dlr.de>;1035887898;"destruction waits for the thread to stop; net is being deleted
+
+
+git-svn-id: file:///home/behr_mi/git/sumo_synched/trunk@308 afbd958f-9f77-42d5-a016-97a22340ccf4
+"
+pre;eclipse_sumo;7c649f24ecaf172191d857c422ee7162e05c59a0;Daniel Krajzewicz <Daniel.Krajzewicz@dlr.de>;1035888019;"edge grid is not used by now; removed deletion of inallocated ressources
+
+
+git-svn-id: file:///home/behr_mi/git/sumo_synched/trunk@309 afbd958f-9f77-42d5-a016-97a22340ccf4
+"
+pre;eclipse_sumo;631b8a8b63b451983e2114d6dc5685ec17f144e0;Daniel Krajzewicz <Daniel.Krajzewicz@dlr.de>;1035888171;"problems accured due to the deletion of a vehicle that reached his destination debugged
+
+
+git-svn-id: file:///home/behr_mi/git/sumo_synched/trunk@310 afbd958f-9f77-42d5-a016-97a22340ccf4
+"
+pre;eclipse_sumo;a458837532b845d1a58cc2c0010288f2aea54210;Daniel Krajzewicz <Daniel.Krajzewicz@dlr.de>;1035888218;"bug of trying to set the destination lane for vehicles that vanish before they reach the point of halt removed
+
+
+git-svn-id: file:///home/behr_mi/git/sumo_synched/trunk@311 afbd958f-9f77-42d5-a016-97a22340ccf4
+"
+pre;eclipse_sumo;2f38fd5e1ae591a384c6f461c57df6f98a3ab94c;Daniel Krajzewicz <Daniel.Krajzewicz@dlr.de>;1036399351;"in-line documentation updated; unwished includion of non-existing .icc-files removed; help screen updated
+
+
+git-svn-id: file:///home/behr_mi/git/sumo_synched/trunk@312 afbd958f-9f77-42d5-a016-97a22340ccf4
+"
+pre;eclipse_sumo;fb4f7da0e28927af8872dab4d27e3dd12354413e;Christian Roessel <roessel@zpr.uni-koeln.de>;1036508247;"Initial commit.
+
+
+git-svn-id: file:///home/behr_mi/git/sumo_synched/trunk@313 afbd958f-9f77-42d5-a016-97a22340ccf4
+"
+post;eclipse_sumo;d97d4b92f60bc5fc277a8fde41d50c0a687d9e12;Daniel Krajzewicz <Daniel.Krajzewicz@dlr.de>;1044611396;"current template configuration files added
+
+
+git-svn-id: file:///home/behr_mi/git/sumo_synched/trunk@315 afbd958f-9f77-42d5-a016-97a22340ccf4
+"
+post;eclipse_sumo;a1ff89aa2f6012097f48fddde7b24f743e40f8b2;Daniel Krajzewicz <Daniel.Krajzewicz@dlr.de>;1044612760;"box1 example added
+
+
+git-svn-id: file:///home/behr_mi/git/sumo_synched/trunk@316 afbd958f-9f77-42d5-a016-97a22340ccf4
+"
+post;eclipse_sumo;1397626a0a912612e7949cfe639f6064e2b3f86f;Daniel Krajzewicz <Daniel.Krajzewicz@dlr.de>;1044612867;"box2 example added
+
+
+git-svn-id: file:///home/behr_mi/git/sumo_synched/trunk@317 afbd958f-9f77-42d5-a016-97a22340ccf4
+"
+post;eclipse_sumo;f0a5cf1700dae23f3e97e8ed402c623a8d03126e;Daniel Krajzewicz <Daniel.Krajzewicz@dlr.de>;1044613033;"cross example added
+
+
+git-svn-id: file:///home/behr_mi/git/sumo_synched/trunk@318 afbd958f-9f77-42d5-a016-97a22340ccf4
+"
+post;eclipse_sumo;63b50c75f61ee2708be104e8cabdb4606825d3cf;Daniel Krajzewicz <Daniel.Krajzewicz@dlr.de>;1044613153;"eight example added
+
+
+git-svn-id: file:///home/behr_mi/git/sumo_synched/trunk@319 afbd958f-9f77-42d5-a016-97a22340ccf4
+"
+post;eclipse_sumo;47c5868231cef78d94db8c70a9319991ffe021d5;Daniel Krajzewicz <Daniel.Krajzewicz@dlr.de>;1044613205;"First try of a scheme for street type classification added
+
+
+git-svn-id: file:///home/behr_mi/git/sumo_synched/trunk@320 afbd958f-9f77-42d5-a016-97a22340ccf4
+"
+post;eclipse_sumo;7f6d1d4694c918a440b081652bef9cd6c11c56c8;Daniel Krajzewicz <Daniel.Krajzewicz@dlr.de>;1044613250;"some standard street types added
+
+
+git-svn-id: file:///home/behr_mi/git/sumo_synched/trunk@321 afbd958f-9f77-42d5-a016-97a22340ccf4
+"
+post;eclipse_sumo;d5a9ebf81d582c2c23dc39ab2c7049f6363cdd8f;Daniel Krajzewicz <Daniel.Krajzewicz@dlr.de>;1044613528;"v0.7-documentation added
+
+
+git-svn-id: file:///home/behr_mi/git/sumo_synched/trunk@322 afbd958f-9f77-42d5-a016-97a22340ccf4
+"
+post;eclipse_sumo;748a7b8e9e8a26f252c6f7dfa7ba8b294b66b460;Daniel Krajzewicz <Daniel.Krajzewicz@dlr.de>;1044613795;"MSVC++-project added
+
+
+git-svn-id: file:///home/behr_mi/git/sumo_synched/trunk@323 afbd958f-9f77-42d5-a016-97a22340ccf4
+"
+post;eclipse_sumo;8446a2842960980d1a974e18892ce919f866422c;Daniel Krajzewicz <Daniel.Krajzewicz@dlr.de>;1044613865;"a converter from csv-tables to xml-representation for preparation of input to netconvert added
+
+
+git-svn-id: file:///home/behr_mi/git/sumo_synched/trunk@324 afbd958f-9f77-42d5-a016-97a22340ccf4
+"
+pre;fredros_pypmc;3f1f98a522284433e1edfde2749f1abf3112bac8;Stephan Jahn <gu92biv@mytum.de>;1426703098;"[importance_sampling] remove ``DeterministicIS``
+
+the more practical function ``combine_weights`` makes
+``DeterministicIS`` redundant
+"
+pre;fredros_pypmc;31d91354099dca87998d0665f1a5463a11c8be45;Stephan Jahn <gu92biv@mytum.de>;1427309722;"[student_t_pmc] correct docstring in class _DOFCondition
+"
+pre;fredros_pypmc;ccccc7e2d32bd9248a236a2326a2d5913c1593d1;Stephan Jahn <gu92biv@mytum.de>;1427309855;"[pmc] add todo comment about convergence criterion
+"
+pre;fredros_pypmc;cd48e474a00cefb07c53556ce038a0e4f572abdb;Stephan <gu92biv@mytum.de>;1427381840;"[pmc] add class PMC to implement multiple updates with convergence criterion
+
+the new class PMC decides from the input mixture if Gaussian- or
+Student-t-updates have to be performed
+"
+pre;fredros_pypmc;6eeff02a78d26b4d2037c02fd3110876f401c849;Stephan <gu92biv@mytum.de>;1427384840;"[pmc] add prune feature to method PMC.run()
+"
+pre;fredros_pypmc;eee7f4a4eb867071c95a76e5cd602f9ebe7a3573;Stephan <gu92biv@mytum.de>;1427387351;"[PMC.run()] print component weights in each iteration if verbose
+"
+pre;fredros_pypmc;a2a07a745b62bcd97a01e887455f7bc1f2e2482e;Stephan <gu92biv@mytum.de>;1427411063;"[PMC] bugfix, test: class ``PMC`` is now usable with student's t mixtures
+"
+pre;fredros_pypmc;47e9f0f93bb73a1d0428383f59f3e5a5b9f68d5a;Stephan <gu92biv@mytum.de>;1433232021;"[setup.py] bugfix: some systems raise an exception if no ""*.pyx"" files are found
+"
+pre;fredros_pypmc;c47a09a6dbe95fca4a7a209429d68726fdeee48b;Stefan Jahn <sjahn@mpp.mpg.de>;1437069267;"[Makefile] add ""check-nompi""
+"
+pre;fredros_pypmc;99c9311f5f34db7688ae0651a9c0529f5165e249;Stefan Jahn <sjahn@mpp.mpg.de>;1437069319;"cast all random seeds down to 32bit, see Issue #47
+"
+post;fredros_pypmc;e611718ae97a631a3ec5afb38e01468c3ac5337b;Frederik Beaujean <Frederik.Beaujean@lmu.de>;1471896142;"[gitignore] ignore .idea/*
+"
+post;fredros_pypmc;847fd7ec2d543a730ad94d0e378b5b1e6ceec604;Frederik Beaujean <Frederik.Beaujean@lmu.de>;1471897516;"[plot] Expand doc on `visualize_weights`
+"
+post;fredros_pypmc;32894d82b27c9d787d5bb39bb17ed43dba8f96ab;Frederik Beaujean <Frederik.Beaujean@lmu.de>;1471939601;"[plot] Change normalization of component weights in plot
+
+Weights are on the scale [0,1]. I want to preserve the values so they
+are easier to read off a color bar.
+"
+post;fredros_pypmc;cd10c7afeb9d66af2458bc16facbccbdf86df685;Frederik Beaujean <Frederik.Beaujean@lmu.de>;1471940054;"bump version to 1.1
+"
+post;fredros_pypmc;cbc5a8e9147f2a898501f28587e468803166b241;Frederik Beaujean <Frederik.Beaujean@lmu.de>;1472202185;"[setup] Update short description
+"
+post;fredros_pypmc;a42896e437eaaad9e5191ed2e0eff7feb115e968;Frederik Beaujean <Frederik.Beaujean@lmu.de>;1472202216;"[doc] Add requirements.txt
+
+To be used with automatic building of doc by read the docs
+"
+post;fredros_pypmc;45b023138be6c85e4c384a99a630949fb22be83f;Frederik Beaujean <Frederik.Beaujean@lmu.de>;1472647927;"[vb] Useful error if prune threshold too large
+
+Fixes #46
+"
+post;fredros_pypmc;fecc2439ff1272af7922b8a8aa2fb93578c11e5d;Frederik Beaujean <Frederik.Beaujean@lmu.de>;1472652234;"[examples] `tight_layout()` to avoid overlapping text
+"
+post;fredros_pypmc;83e6aeda6db6c11d778918b0915f4356e3c12d83;Frederik Beaujean <Frederik.Beaujean@lmu.de>;1472652445;"[doc] Update user guide
+
+Fix #50 and #52
+"
+post;fredros_pypmc;0348428a8c7b2a879880d52501eaf1615242a10a;Frederik Beaujean <Frederik.Beaujean@lmu.de>;1472652899;"update readme
+"
+pre;pbs-assess_gftrends;47bde049f0abb55e186eb67f36368d5354750446;J Dunic <jdunic@gmail.com>;1677873109;"add script to make presentation figures
+"
+pre;pbs-assess_gftrends;d8dc2399361c4790b6de2ee84193f21f4720d23b;J Dunic <jdunic@gmail.com>;1677877383;"get presentation plotting function working
+"
+pre;pbs-assess_gftrends;c841d2ac3198ee1eb814b2eee0152abb24bab363;J Dunic <jdunic@gmail.com>;1677877407;"whoops, skipped a number
+"
+pre;pbs-assess_gftrends;cc6355b9baa5ee10e188635c79568b59bb90d221;J Dunic <jdunic@gmail.com>;1677877588;"replace plot code with function
+"
+pre;pbs-assess_gftrends;624768425f53d46b6338e9adcc7a7ec9df0ede96;J Dunic <jdunic@gmail.com>;1677877598;"add inshore rockfish
+"
+pre;pbs-assess_gftrends;d46aeca6efd398cd431ad29bf1056ef7979204d3;J Dunic <jdunic@gmail.com>;1677878920;"add rest of groups
+"
+pre;pbs-assess_gftrends;5d35783113f28a836a8984b15fe25b6fa690003a;J Dunic <jdunic@gmail.com>;1677881412;"match last year plot order
+"
+pre;pbs-assess_gftrends;ee165774b7e406a42fdb41e86e3b8550dd207cac;J Dunic <jdunic@gmail.com>;1677882052;"add flatfish and minor tweaks
+"
+pre;pbs-assess_gftrends;b7ec385bbb68d5acbfcdecf47d51fff047c85538;J Dunic <jdunic@gmail.com>;1678165122;"add assessment status plots
+"
+pre;pbs-assess_gftrends;4f3a30a6795d8e7362a3cebe6c734d5cc325ba7f;J Dunic <jdunic@gmail.com>;1678165144;"improve visibility
+"
+post;pbs-assess_gftrends;51a58a7a5c86080f1935701b2f1ff686c6595849;Jillian Dunic <>;1708641234;"update report data for 2023 and improve reproducibility
+"
+post;pbs-assess_gftrends;efd165f13f27ed63cb1e4495f819d1f65af61004;Jillian Dunic <>;1710263305;"add survey locations and minor tweaks for presentation
+"
+post;pbs-assess_gftrends;b2bccea447a57536b48f7f9a75c90ae69a51b317;Jillian Dunic <>;1710263345;"make troubleshooting easier--loading mcmc data is slow
+"
+post;pbs-assess_gftrends;0276a0e8c893cda11d0c6cfbb755a2516d376a8b;Sean Anderson <sean@seananderson.ca>;1718750945;"Add PDF links
+"
+post;pbs-assess_gftrends;0f5d2b5d208d4e1fa753abd6b7b03ca7d9301e10;Sean Anderson <sean@seananderson.ca>;1719336318;"Update readme; move to update-steps
+"
+post;pbs-assess_gftrends;ac702abc10e1e32c84f061bfac97675caf75f613;Sean Anderson <sean@seananderson.ca>;1719336426;"Edits
+"
+post;pbs-assess_gftrends;a8bda6def36d46c42ff4c721c190d343e9e6231e;Sean Anderson <seananderson@users.noreply.github.com>;1723061352;Update README.md
+post;pbs-assess_gftrends;04079cbd094ba6b129fc9ee0418ec1fed2f02140;Sean Anderson <seananderson@users.noreply.github.com>;1733255018;Update README.md
+post;pbs-assess_gftrends;00fa2f4ed3bdb332f922874fe68c4910d233b0e2;Sean Anderson <seananderson@users.noreply.github.com>;1733255028;Update README.md
+post;pbs-assess_gftrends;9aae04a35d235cc40b3b7162ae33ce3061965840;Sean Anderson <seananderson@users.noreply.github.com>;1733255251;Update README.md
+pre;rpng_open_vins;2b506eeedd0b158c014641b9240a62ae80f6d7a0;Patrick Geneva <pgeneva@udel.edu>;1684421718;"label how to get imu intrinsics from kalibr result file
+"
+pre;rpng_open_vins;7e4dd43aa9076af843dedae80c0f23e0be945c91;Patrick Geneva <pgeneva@udel.edu>;1684785319;"2d ate in comparison eval, report bad trajectory distance ratios to help debugging
+"
+pre;rpng_open_vins;456907c45ddeb71a4e0ad2e5693d8024987a47da;Patrick Geneva <pgeneva@udel.edu>;1684866582;"compute ratio before associating
+"
+pre;rpng_open_vins;54e483e8b89472ecebe89cd0809ea544dbfc1642;Patrick Geneva <pgeneva@udel.edu>;1686247846;"fix #340 feat init jacob error
+"
+pre;rpng_open_vins;2d5ed9ac5d3e911b1c11e1703525715804b9968c;Patrick Geneva <pgeneva@udel.edu>;1686258053;"fix #296 more comments and switch to sparse qr recovery for speed
+"
+pre;rpng_open_vins;ef899cda66a5388ad26d9b151cf6f41279e93e82;Patrick Geneva <pgeneva@udel.edu>;1686260473;"fix 16.04 compile, default should be SPARSE_QR
+"
+pre;rpng_open_vins;93adc241390d13e99232652cf05cbe18a93c7bea;Patrick Geneva <goldbattle@users.noreply.github.com>;1687218901;"Merge pull request #337 from rpng/develop_v2.7
+
+Develop v2.7 - IMU Intrinsic Support"
+pre;rpng_open_vins;7c3bd8b80b8e074331fd888fe560f4a388af15d3;Patrick Geneva <pgeneva@udel.edu>;1687220282;"add video tutorial links [skip ci]
+"
+pre;rpng_open_vins;4534a2f32d4763bdc8c95121b3292c7423e12aca;Patrick Geneva <pgeneva@udel.edu>;1687220523;"add video tutorial links [skip ci]
+"
+pre;rpng_open_vins;0ebe2f1919190816bad8b1142a3292912b1bcf4a;Patrick Geneva <pgeneva@udel.edu>;1687220770;"update - 4534a2f32d4763bdc8c95121b3292c7423e12aca
+"
+post;rpng_open_vins;f3ba270ae6bbca3b4f8425f38a8926a41d572509;Patrick Geneva <pgeneva@udel.edu>;1698526991;"fixes #357
+"
+post;rpng_open_vins;78b3513631fe5feb5189861d79d469b125514a18;Patrick Geneva <pgeneva@udel.edu>;1698529559;"ubuntu 22.04 docker
+"
+post;rpng_open_vins;64a58c96922886c58a1b8de317df8040099f5885;Patrick Geneva <pgeneva@udel.edu>;1698548210;"fixed #316 aruco building on opencv 4.7 and above
+"
+post;rpng_open_vins;3ae57920799b4d997584c442ad1448869db5659f;Patrick Geneva <pgeneva@udel.edu>;1698548508;"fix #358 calibration file documentation for gyro rotation intrinsics
+"
+post;rpng_open_vins;6c92b247f0cf2aa695baf779a9a3d0420cec176d;Patrick Geneva <pgeneva@udel.edu>;1698556808;"don't ask why humble causes a seg fault on shutdown....
+"
+post;rpng_open_vins;e84c8ca164c1ba59b4d0cae8da66141fc6df22fe;Patrick Geneva <goldbattle@users.noreply.github.com>;1698558762;"Merge pull request #395 from rpng/small_fixes
+
+Small fixes"
+post;rpng_open_vins;60ac07163e9b39826c2bb98d12a2e32c3372a615;Borong Yuan <yuanborong@hotmail.com>;1704969495;"fix erase of old imu messages
+"
+post;rpng_open_vins;5e5788ba4a00c662f62c1805fe68a825745110b5;Borong Yuan <yuanborong@hotmail.com>;1704969648;"Merge 60ac07163e9b39826c2bb98d12a2e32c3372a615 into e84c8ca164c1ba59b4d0cae8da66141fc6df22fe
+"
+post;rpng_open_vins;17b73cfe4b870ade0a65f9eb217d8aab58deae19;Patrick Geneva <goldbattle@users.noreply.github.com>;1705879404;"Merge pull request #413 from borongyuan/master
+
+fix erase of old imu messages"
+post;rpng_open_vins;440af503dbadcaf2d029e6703bca5dc1a9a14eed;Henry Moore <henrygerardmoore@gmail.com>;1717194933;"enable building without ROS even if you have ROS
+"
