@@ -1,0 +1,1 @@
+The break was slighty over a month indicating semi consistent activity. The difference between the before and after was new functionality before and maintenance/bug fixing after.

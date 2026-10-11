@@ -1,0 +1,1 @@
+There was no notable gap in development. This indicates that it is an active repo with consistent commits. They mostly consist of bug fixes and small feature requests.

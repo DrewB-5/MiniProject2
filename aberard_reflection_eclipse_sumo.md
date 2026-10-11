@@ -1,0 +1,1 @@
+Their break was only 2.5 months. The commits suggest a shift from early bug fixes to documentationa dn additional development tools.

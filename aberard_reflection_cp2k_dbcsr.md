@@ -1,0 +1,1 @@
+Development resumed after almost a year break in their work. The reason for the gap was not mentioned in the commit but they implemented a lot of new features, support, and improvements.

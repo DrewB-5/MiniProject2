@@ -1,0 +1,1 @@
+This break was 4 months. The post gap commits include bug fixes, docker support, opencv compatability and documentation. These just show general imporvements on the existing codebase.

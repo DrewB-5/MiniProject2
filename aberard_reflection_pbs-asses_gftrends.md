@@ -1,0 +1,1 @@
+This break was 10.5 months. The post-gap commits include updated reports and data. New contributors appeared in the post gap sample indiciating new hiring.
